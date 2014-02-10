@@ -116,3 +116,7 @@ crawl('http://dribbble.com/shots/919098-Fossypad', function(result) {
 - Youtube
 
 More spiders will follow
+
+## License 
+
+MIT
