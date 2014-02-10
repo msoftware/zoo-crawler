@@ -120,3 +120,10 @@ More spiders will follow
 ## License 
 
 MIT
+
+## Todos 
+
+- Tests
+- more Spiders
+- better Docs
+- error handling

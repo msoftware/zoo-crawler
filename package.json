@@ -1,6 +1,6 @@
 {
   "name": "zoo-crawler",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "The crawler module fetches the best general information for any url. It's an open-source port of Zootool's content detection engine",
   "main": "index.js",
   "dependencies": {
@@ -11,6 +11,10 @@
     "xregexp": "~2.0.0"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bastianallgeier/zoo-crawler.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
