@@ -1,0 +1,29 @@
+{
+  "name": "zoo-crawler",
+  "version": "0.0.0",
+  "description": "The crawler module fetches the best general information for any url. It's an open-source port of Zootool's content detection engine",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "~0.13.1",
+    "URIjs": "~1.12.0",
+    "request": "~2.33.0",
+    "xml2js": "~0.4.1",
+    "xregexp": "~2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crawler",
+    "url",
+    "open",
+    "graph",
+    "content",
+    "type",
+    "detection",
+    "oembed"
+  ],
+  "author": "Bastian Allgeier <mail@bastianallgeier.com>",
+  "license": "MIT"
+}
