@@ -107,3 +107,12 @@ crawl('http://dribbble.com/shots/919098-Fossypad', function(result) {
 }
   
 ```
+
+## Available Spiders
+
+- Dribbble
+- Vimeo
+- XKCD
+- Youtube
+
+More spiders will follow
