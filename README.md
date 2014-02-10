@@ -1,4 +1,12 @@
-# Crawler -- Easy URL crawling
+# Zoo Crawler
+
+A node module, which provides easy access to the most important data for any URL.
+
+This module is a rough port of Zootool's original content detection engine. 
+
+Give it an URL and it will scrape the site to find the best title, description, tags, a representative image and if available a video. 
+
+The module can easily be extended with more "spiders" to get even better results for sites with APIs, oEmbed endpoints or more specific scraping needs.
 
 ## Usage
 
